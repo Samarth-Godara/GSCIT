@@ -16,6 +16,8 @@ GSCIT for ubuntu 21.10 and above : https://drive.google.com/file/d/1v7lIRkxZ0VtO
 
 GSCIT for mac : 
 
+GSCIT user manual : https://drive.google.com/file/d/1FQoki3OYA7knZpwHApCTGp7ZXVntG7FK/view?usp=sharing
+
 ### Developed by:
 Samarth Godara,
 Scientist, Division of Computer Applications,
