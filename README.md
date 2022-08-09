@@ -10,7 +10,7 @@
 
 For any query contact at samarth.godara@gmail.com.
 
-#Downloads
+# Downloads
 
 GSCIT for windows : https://drive.google.com/file/d/1P22lM0RXB_XzwT8EZORY-5_uyQgmu-9l/view?usp=sharing
 
