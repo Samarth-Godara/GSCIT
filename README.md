@@ -10,9 +10,9 @@
 
 # Downloads
 
-GSCIT for windows : https://drive.google.com/file/d/1P22lM0RXB_XzwT8EZORY-5_uyQgmu-9l/view?usp=sharing
+GSCIT for windows 10 and above : https://drive.google.com/file/d/1P22lM0RXB_XzwT8EZORY-5_uyQgmu-9l/view?usp=sharing
 
-GSCIT for ubuntu : https://drive.google.com/file/d/1v7lIRkxZ0VtO_N47gkg6QPkasHMsnM3K/view?usp=sharing
+GSCIT for ubuntu 21.10 and above : https://drive.google.com/file/d/1v7lIRkxZ0VtO_N47gkg6QPkasHMsnM3K/view?usp=sharing
 
 GSCIT for mac : 
 
