@@ -8,8 +8,6 @@
 
 ### For each execution run, the software creates a new folder in the directory the software is running. The graphs, plots, and output logs are stored in the same folder. 
 
-For any query contact at samarth.godara@gmail.com.
-
 # Downloads
 
 GSCIT for windows : https://drive.google.com/file/d/1P22lM0RXB_XzwT8EZORY-5_uyQgmu-9l/view?usp=sharing
@@ -17,3 +15,10 @@ GSCIT for windows : https://drive.google.com/file/d/1P22lM0RXB_XzwT8EZORY-5_uyQg
 GSCIT for ubuntu : https://drive.google.com/file/d/1v7lIRkxZ0VtO_N47gkg6QPkasHMsnM3K/view?usp=sharing
 
 GSCIT for mac : 
+
+### Developed by:
+Samarth Godara,
+Scientist, Division of Computer Applications,
+ICAR-Indian Agricultural Statistics Research Institute (IASRI),
+Library Avenue, Pusa, New Delhi-110012
+For any query contact at samarth.godara@gmail.com.
