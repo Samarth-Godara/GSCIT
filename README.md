@@ -18,7 +18,7 @@ GSCIT for MacOS :
 
 GSCIT user manual : https://drive.google.com/file/d/1FQoki3OYA7knZpwHApCTGp7ZXVntG7FK/view?usp=sharing
 
-Sample data for GSCIT : https://drive.google.com/file/d/1A5sNszdwYi7Lr0G1hvfKe-HAVyL5vuVt/view?usp=sharing
+Sample input data for GSCIT : https://drive.google.com/file/d/1A5sNszdwYi7Lr0G1hvfKe-HAVyL5vuVt/view?usp=sharing
 
 ### Developed by:
 Samarth Godara,
