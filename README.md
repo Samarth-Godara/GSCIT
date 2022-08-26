@@ -14,7 +14,7 @@ GSCIT for windows 10 and above : https://drive.google.com/file/d/1P22lM0RXB_XzwT
 
 GSCIT for ubuntu 21.10 and above : https://drive.google.com/file/d/1v7lIRkxZ0VtO_N47gkg6QPkasHMsnM3K/view?usp=sharing
 
-GSCIT for MacOS : 
+GSCIT for MacOS : https://drive.google.com/file/d/1iAo4wfzDsToJiXTj7jbEi7iZfxwToWA0/view?usp=sharing
 
 GSCIT user manual : https://drive.google.com/file/d/1FQoki3OYA7knZpwHApCTGp7ZXVntG7FK/view?usp=sharing
 
