@@ -25,4 +25,4 @@ Samarth Godara,
 Scientist, Division of Computer Applications,
 ICAR-Indian Agricultural Statistics Research Institute (IASRI),
 Library Avenue, Pusa, New Delhi-110012
-For any query contact at samarth.godara@gmail.com.
+For any query, contact: samarth.godara@gmail.com.
