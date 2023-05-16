@@ -18,7 +18,7 @@ GSCIT for MacOS Monterey 12.15 and above : https://drive.google.com/file/d/1iAo4
 
 GSCIT user manual : https://drive.google.com/file/d/1pc8qf45kCrywoKBXNyTL5d6JDp5Zpt93/view?usp=sharing
 
-Sample input data for GSCIT : https://drive.google.com/file/d/1A5sNszdwYi7Lr0G1hvfKe-HAVyL5vuVt/view?usp=sharing
+Sample input data for GSCIT : https://drive.google.com/file/d/1XWFnU9g14uTzVcSeM5qsMB1JBae0E4yu/view?usp=sharing
 
 ### Developed by:
 Samarth Godara,
