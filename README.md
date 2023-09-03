@@ -21,11 +21,14 @@ GSCIT user manual : https://drive.google.com/file/d/1pc8qf45kCrywoKBXNyTL5d6JDp5
 Sample input data for GSCIT : https://drive.google.com/file/d/1XWFnU9g14uTzVcSeM5qsMB1JBae0E4yu/view?usp=sharing
 
 ### Developed by:
-Samarth Godara,
+Dr. Samarth Godara,
 Scientist, Division of Computer Applications,
 ICAR-Indian Agricultural Statistics Research Institute (IASRI),
 Library Avenue, Pusa, New Delhi-110012
 For any query, contact: samarth.godara@gmail.com.
+
+Dr. Shbana Begam,
+Scientist, ICAR-National Institute for Plant Biotechnology, New Delhi-110012
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
